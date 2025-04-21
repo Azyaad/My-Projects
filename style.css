@@ -8,10 +8,6 @@ body{
     justify-content: center;
 }
 
-#fix {
-    position: fixed;
-}
-
 .clear {
     clear: both;
 }
